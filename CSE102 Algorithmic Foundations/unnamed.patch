@@ -1,0 +1,213 @@
+Index: CSE102 Algorithmic Foundations/.idea/dictionaries/15400.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- CSE102 Algorithmic Foundations/.idea/dictionaries/15400.xml	(date 1583417282357)
++++ CSE102 Algorithmic Foundations/.idea/dictionaries/15400.xml	(date 1583417282357)
+@@ -0,0 +1,3 @@
++<component name="ProjectDictionaryState">
++  <dictionary name="15400" />
++</component>
+\ No newline at end of file
+Index: CSE102 Algorithmic Foundations/CSE102 Algorithmic Foundations.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- CSE102 Algorithmic Foundations/CSE102 Algorithmic Foundations.iml	(date 1583416908201)
++++ CSE102 Algorithmic Foundations/CSE102 Algorithmic Foundations.iml	(date 1583416908201)
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$">
++      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
++
+Index: CSE102 Algorithmic Foundations/.idea/project-template.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- CSE102 Algorithmic Foundations/.idea/project-template.xml	(date 1583416908183)
++++ CSE102 Algorithmic Foundations/.idea/project-template.xml	(date 1583416908183)
+@@ -0,0 +1,3 @@
++<template>
++  <input-field default="com.company">IJ_BASE_PACKAGE</input-field>
++</template>
+\ No newline at end of file
+Index: CSE102 Algorithmic Foundations/src/com/company/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- CSE102 Algorithmic Foundations/src/com/company/Main.java	(date 1583416994346)
++++ CSE102 Algorithmic Foundations/src/com/company/Main.java	(date 1583416994346)
+@@ -0,0 +1,11 @@
++package com.company;
++
++import java.util.Arrays;
++
++public class Main {
++    public static void main(String[] args) {
++        System.out.println("Hello");
++
++    }
++
++}
+\ No newline at end of file
+Index: CSE102 Algorithmic Foundations/.idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- CSE102 Algorithmic Foundations/.idea/modules.xml	(date 1583416925951)
++++ CSE102 Algorithmic Foundations/.idea/modules.xml	(date 1583416925951)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/CSE102 Algorithmic Foundations.iml" filepath="$PROJECT_DIR$/CSE102 Algorithmic Foundations.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: CSE102 Algorithmic Foundations/.idea/description.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- CSE102 Algorithmic Foundations/.idea/description.html	(date 1583416908167)
++++ CSE102 Algorithmic Foundations/.idea/description.html	(date 1583416908167)
+@@ -0,0 +1,1 @@
++<html>Simple <b>Java</b> application that includes a class with <code>main()</code> method</html>
+\ No newline at end of file
+Index: CSE102 Algorithmic Foundations/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- CSE102 Algorithmic Foundations/.idea/misc.xml	(date 1583416925925)
++++ CSE102 Algorithmic Foundations/.idea/misc.xml	(date 1583416925925)
+@@ -0,0 +1,9 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectKey">
++    <option name="state" value="project://e2804f05-5315-4fc6-a121-c522a6c26470" />
++  </component>
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: CSE102 Algorithmic Foundations/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- CSE102 Algorithmic Foundations/.idea/.gitignore	(date 1583421004560)
++++ CSE102 Algorithmic Foundations/.idea/.gitignore	(date 1583421004560)
+@@ -0,0 +1,2 @@
++# Default ignored files
++/workspace.xml
+\ No newline at end of file
+Index: CSE102 Algorithmic Foundations/.idea/encodings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- CSE102 Algorithmic Foundations/.idea/encodings.xml	(date 1583416925945)
++++ CSE102 Algorithmic Foundations/.idea/encodings.xml	(date 1583416925945)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Encoding">
++    <file url="PROJECT" charset="UTF-8" />
++  </component>
++</project>
+\ No newline at end of file
+Index: CSE102 Algorithmic Foundations/src/LinearSearch.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- CSE102 Algorithmic Foundations/src/LinearSearch.java	(date 1583420510401)
++++ CSE102 Algorithmic Foundations/src/LinearSearch.java	(date 1583420510401)
+@@ -0,0 +1,34 @@
++import java.util.Scanner;
++
++public class LinearSearch {
++
++    public static void main(String args[]) {
++        int c, n,search, array[];
++        Scanner in = new Scanner(System.in);
++        System.out.println("Enter number of elements");
++        n = in.nextInt();
++        array = new int[n];
++
++        System.out.println("Enter " + n + " integers");
++
++        for (c = 0; c < n; c++)
++            array[c] = in.nextInt();
++
++        System.out.println("Enter value to find");
++        search = in.nextInt();
++
++        for (c = 0; c < n; c++) {
++            if (array[c] == search) {  //Searching element is present
++                System.out.println(search + " is present at location " + (c + 1) + ".");
++                break;
++            }
++        }
++
++        if (c == n) {    //Element to search isn't present
++            System.out.println(search + " isn't present in array");
++        }
++
++    }
++
++
++}
+diff --git CSE102 Algorithmic Foundations/out/production/CSE102 Algorithmic Foundations/com/company/Main.class CSE102 Algorithmic Foundations/out/production/CSE102 Algorithmic Foundations/com/company/Main.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..38be0cdeb9138cf3ebf047dd9d3ca98f932c3cc8
+GIT binary patch
+literal 533
+zc${rf%TB^T6g>l!(pm*U@cqCQy09A)7Z^7t#sxl-8aA$mI)Nc=hm_WY&(eh^F8lyL
+z%6O-cpoS*Br}vzhbI)|XzCS(zoZ`?%5o;FeXq2#SV*{HewoGg@6whTOlM9A?>!{06
+zxKvMqq1=&?xJ|>Jh#z<_Ag0<;J`cJ)mb#yjg=8SdTJu%t(mUeO#J%A%YLgZcGBjF`
+zogshbZos3y>m{*_`t58IkNdQ@wm@dEJ(b43xRQE`r5#W7DhDP?CUzX`VvoVN7D1p)
+z>^nF>lcDlI22peKyWUXv$sfv_j1v*k*;PtHeVRln_nu-T6h`on!qgVf4CY980nMnl
+z7M&1H81&cmlLOPisan*zgpANQeg}KWWSeSnN@9tsGy8V1OlV;R<=N)5%#65K<f{2M
+X6y^ptA+kBvFB1zDtP;{KWh-kx1w3u(
+
+diff --git CSE102 Algorithmic Foundations/out/production/CSE102 Algorithmic Foundations/LinearSearch.class CSE102 Algorithmic Foundations/out/production/CSE102 Algorithmic Foundations/LinearSearch.class
+new file mode 100644
+index 0000000000000000000000000000000000000000..abf1a6211e3f971522c376963191ae4f4aa31873
+GIT binary patch
+literal 1405
+zc$|GxTXPge7(KnWnO%p3>=H=WjgHD?iIP=8#oSPC8dwOr6jfAS>};B3aJFY_wwICz
+z-+cDTDxavLc;Que*i;$Hcl|T|1LNtLkVLY@R83#bcfQm8o$mho-#`8Ya2|I`7)Qgw
+zM@4*$PfEz(oE@Ea@o5R4;d6^zaPUP5MKoN@+J4S9^DY)_zv$wki!WV#<>Hcq%MPvx
+z6y^gRm_>nX{mfl~+~sIZ35+%at#0)@t17-DS3@G@X4ID9T^R><z60jWM$i)&X<E9B
+zTm0J_bHqC`&;m#6E6oS;p=^XwuQysI4)pq5vWkq?nO7MS77%UzOZ=%&=p~W@c^Sv@
+zkw9jJk&G3uq`7?)gpF2PYOP`>A8Hxd{^6$VCOdTCJ2*wl1WK)_AGg)D!0vl&|9)qz
+zj)$W-#=rqh2Uk6u#x+a$+QT>C`V&{RQL(QRfBfjauR_&P+VmV;_izJE4>xg3;MnWc
+zUFrwnnu=Lhs^DQ6w{7#SK+z9~t*f}_;XAZgV9I$Y!@lxO<lhhU8rSxNp5KjCkL&r;
+z_#uzQ1d;Y>*bJ9sSf4h#j6nN4&UyQ57C5}Ox8>Cbs%`!UwI211>IjUdCI?YtNq75(
+zRVdk^%@g&Z0eiODsBiWs-e%!@iIpL+fYY_Jkf%CcAAVyTt$s91+9dasM^KR6uCjid
+z9hPta+A*FRsMVL=6n0INLIOwX2Z?id7f1LE?U#YDmxk>GXASm(eSUfq;&~FDWLrqU
+zERM7FQUa=|u`gl@Z>P!P7v#tUUTz_C?*+1($j#<oAYU#F;7sNRa2IMXOS3sbTPWV!
+zM5+AN0A6i?L*)?;1{ftVJ729mMR_t;O;VPB7UJ3VKUU`OE1AWVbAg<hsVA7;6P&VI
+zW7MkVzPH2juIw`u6Q#eZwI`^(mQmTIJx}ViHD5=Wt;2d<npI@&CA`Dg0!DBJqkJ19
+zXkiR1<Vi9%XlR#K{z@}{<NPrldP<MBm}PxiOugaEXMYht@etmlbH~YgpQ8*_R&au&
+zEIE&H5~t{=hu`^b>-75!vpz&&o2dl{(}K4NA2@_i+2(dqOuWL*<)^59HaWqW{{Y23
+BI)DHG
+
