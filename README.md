@@ -1,11 +1,11 @@
 ##  Algorithmic Foundation and Data Structures
 
-### version ：0.0.2
+### version ：0.0.3
 
 -----------------------
 |Author|MistyMoon|
 |---|---
-|E-mail|monstercrackerv@mail.com
+|E-mail|MistyMoonR@outlook.com
 
 -----------------------
 ### Note
@@ -16,12 +16,14 @@ LinearSearch
 **2020/3/6**   
 Add some PDF
 
+
+-----------------------
 ### Information
 
-[Data Structures and Algo](/Information/Data%20Structures%20and%20Algo.pdf)
-[Data Structures and Algorithm Analysis in Java](/Information/Data%20Structures%20and%20Algorithm%20Analysis%20in%20Java.pdf)
-[Introduction to Algorithms](/Information/Introduction%20to%20Algorithms%20.pdf)  
-[Introduction to the Design and Analysis of Algorithms]/Information/Introduction%20to%20the%20Design%20and%20Analysis%20of%20Algorithms%203rd%20Edition.pdf)  
+[Data Structures and Algo](/Information/Data%20Structures%20and%20Algo.pdf)     
+[Data Structures and Algorithm Analysis in Java](/Information/Data%20Structures%20and%20Algorithm%20Analysis%20in%20Java.pdf)       
+[Introduction to Algorithms](/Information/Introduction%20to%20Algorithms%20.pdf)        
+[Introduction to the Design and Analysis of Algorithms](/Information/Introduction%20to%20the%20Design%20and%20Analysis%20of%20Algorithms%203rd%20Edition.pdf)  
 
 -----------------------
 
