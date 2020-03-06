@@ -13,10 +13,15 @@
 **2020/3/5**   
 LinearSearch
 
-
+**2020/3/6**   
+Add some PDF
 
 ### Information
 
+[Data Structures and Algo](/Information/Data%20Structures%20and%20Algo.pdf)
+[Data Structures and Algorithm Analysis in Java](/Information/Data%20Structures%20and%20Algorithm%20Analysis%20in%20Java.pdf)
+[Introduction to Algorithms](/Information/Introduction%20to%20Algorithms%20.pdf)  
+[Introduction to the Design and Analysis of Algorithms]/Information/Introduction%20to%20the%20Design%20and%20Analysis%20of%20Algorithms%203rd%20Edition.pdf)  
 
 -----------------------
 
@@ -26,7 +31,7 @@ touch README.md
 git init  
 git add README.md  
 git commit -m " xxx "  
-git remote add origin git@github.com:MistyMoonR/CLionProjects.git  
+git remote add origin git@github.com:
 git push -u origin master  
  
 git add .  //添加需要提交的文件  
