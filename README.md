@@ -1,6 +1,6 @@
 ##  Algorithmic Foundation and Data Structures
 
-### version ：0.0.1
+### version ：0.0.2
 
 -----------------------
 |Author|MistyMoon|
@@ -42,22 +42,4 @@ git reset --hard xxxxxxxxxx
 
 -----------------------
 
-### Pycharm/Idea/Clion常用快捷键
-
-* ⌘ ——> Command  
-* ⇧ ——> Shift  
-* ⌥ ——> Option  
-* ⌃ ——> Control  
-* ↩ ——> Return/Enter  
-
-```
-Control + R 运行
-Command + 鼠标 简介
-Command + R  替换  
-Command + R 文件内替换
-Control + J 快速查看文档
-Command + Shift + F 全局查找  
-Command + Shift + R 全局替换  
-Command + Shift + Enter  自动结束代码，行末自动添加分号
-```
-Reference:   https://blog.csdn.net/Architect_CSDN/article/details/80235658
+[IDEA常用快捷键](https://www.jianshu.com/p/04f9a8076198?utm_source=qq&utm_medium=social&utm_oi=866238507545427968)
