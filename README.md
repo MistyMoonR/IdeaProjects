@@ -1,6 +1,6 @@
 ##  Algorithmic Foundation and Data Structures
 
-### version ：0.0.3
+### version ：0.0.4
 
 -----------------------
 |Author|MistyMoon|
@@ -16,6 +16,8 @@ LinearSearch
 **2020/3/6**   
 Add some PDF
 
+**2020/3/16**   
+add test for CSE112 to Verification code by java
 
 -----------------------
 ### Information

@@ -28,6 +28,9 @@ public class LinearSearch {
             System.out.println(search + " isn't present in array");
         }
 
+        for (int i = 0; i < ; i++) {
+            
+        }
 
 
     }
