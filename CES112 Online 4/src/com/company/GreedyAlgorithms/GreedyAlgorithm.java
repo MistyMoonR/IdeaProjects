@@ -11,4 +11,5 @@ public class GreedyAlgorithm {
     public GreedyAlgorithm(SocialConnector sc) {
         this.sc = sc;
     }
+
 }
